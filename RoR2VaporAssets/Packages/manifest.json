@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "com.unity.assetbundlebrowser": "https://github.com/Unity-Technologies/AssetBundles-Browser.git",
+    "com.unity.modules.assetbundle": "1.0.0"
+  }
+}
